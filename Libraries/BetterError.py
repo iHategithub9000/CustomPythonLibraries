@@ -15,6 +15,3 @@ def CustomError(strtitle, strtext, fatal):
 def CustomWarning(strtitle, strtext):
   print(Fore.YELLOW + f"{strtitle}: {strtext}")
   print(Style.RESET_ALL)
-def Help():
-  print("CustomError(title(str), text(str), fatal(bool)) make an error")
-  print("CustomWarning(title(str), text(str)) make a warning")

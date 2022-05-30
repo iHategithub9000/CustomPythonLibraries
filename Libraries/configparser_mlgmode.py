@@ -33617,8 +33617,3 @@ def setupConfigParser():
     setup_pip()
     os.system("pip install pathlib")
     os.system("pip install configparser")
-def help():
-    print("setupConfigParser(): Takes no arguments. Basicly installs all the required stuff for this module to work.")
-    print("setup_pip(): Takes no arguments. Installs the package manager. This is automatically ran by setupConfigParser().")
-    print("writeConfigData(file_path, section, value, newValueContent): Takes 4 strings as arguments, used to write to the config file. Duhhhh. Arguments are preety self-explanatory so i will not explain them ok.")
-    print("returnConfigData(file_path, section, value): writeConfigData but reverse lol")
