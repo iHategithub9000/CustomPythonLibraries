@@ -16,8 +16,5 @@ this is literally just simplified configparser
 
 ### gitHelp:
 ~~litterally just 1 function~~  
-<<<<<<< HEAD
 `gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
-=======
-`gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
->>>>>>> 7b003fddba32d4ac9d0a569df45d469795f6d3e6
+
