@@ -7,4 +7,5 @@ def gitHelp(gitCommand):
             os.system(f"git help {each}")
     else:
         os.system(f"git help {gitCommand}")
-gitHelp("all")
+def example():
+    gitHelp("all")
