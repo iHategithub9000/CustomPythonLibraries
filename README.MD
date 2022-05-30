@@ -1,6 +1,6 @@
 # _Python libraries:_
 ### BetterError:
-`CustomError(title, text, fatal)`: make an error
+`CustomError(title, text, fatal)`: make an error  
 `CustomWarning(title, text)`: make a warning
 ### configparser_mlgmode:
 
