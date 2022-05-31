@@ -18,3 +18,5 @@ this is literally just simplified configparser
 ~~litterally just 1 function~~  
 `gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
 
+# _Install guide:_
+just paste the library .py file to the directory with your python file and then import it
