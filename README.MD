@@ -18,5 +18,10 @@ this is literally just simplified configparser
 ~~litterally just 1 function~~  
 `gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
 
+### modulepacket:
+this is a module packet so you can import modules faster, most popular modules are in it
+(does NOT have the modules inside this github repository)
+`modules()`: lists all modules in the packet
+
 # _Install guide:_
 just paste the library .py file to the directory with your python file and then import it
