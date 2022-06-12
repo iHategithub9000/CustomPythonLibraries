@@ -19,8 +19,8 @@ this is literally just simplified configparser
 `gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
 
 ### modulepacket:
-this is a module packet so you can import modules faster, most popular modules are in it
-(does NOT have the modules inside this github repository)
+this is a module packet so you can import modules faster, most popular modules are in it  
+(does NOT have the modules inside this github repository)  
 `modules()`: lists all modules in the packet
 
 # _Install guide:_
