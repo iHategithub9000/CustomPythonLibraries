@@ -25,14 +25,14 @@ variables.negativeintlimit = -2147483648
 variables.pi = 3.141592653589793
 
 `Functions`
-rand(a,b)                       random number
-add(a,b)                        add two numbers
-substract(a,b)                  substract numbers.
-multiply(a,b)                   multiply numbers.
-divide(a,b)                     divide numbers.      returns "No." if dividing by 0
-exp(a,b)                        a to power of b
-printtype(var)                  prints type of variables without <class ''> jibberish
-killuser()                      kills its user
+rand(a,b)                       random number  
+add(a,b)                        add two numbers  
+substract(a,b)                  substract numbers.  
+multiply(a,b)                   multiply numbers.  
+divide(a,b)                     divide numbers.      returns "No." if dividing by 0  
+exp(a,b)                        a to power of b  
+printtype(var)                  prints type of variables without <class ''> jibberish  
+killuser()                      kills its user  
 
-# _Install guide:_
-just paste the library .py file to the directory with your python file and then import it
+# _Install guide:_  
+just paste the library .py file to the directory with your python file and then import it  
