@@ -24,4 +24,4 @@ def printtype(var):
 def killuser():
     for i in range(intlimit):
         if not i == 0:
-            print("GET READY FOR MATH "+i)
+            print("GET READY FOR MATH "+str(i))
