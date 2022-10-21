@@ -19,12 +19,12 @@ this is literally just simplified configparser
 `gitHelp(gitCommand)`: Opens the documentation of a git command. If `gitCommand` is equal to `"all"`, all documentations open.
 
 ### variables:
-`VARS`
-variables.intlimit = 2147483647
-variables.negativeintlimit = -2147483648
-variables.pi = 3.141592653589793
+`VARS`  
+variables.intlimit = 2147483647  
+variables.negativeintlimit = -2147483648  
+variables.pi = 3.141592653589793  
 
-`Functions`
+`Functions`  
 rand(a,b)                       random number  
 add(a,b)                        add two numbers  
 substract(a,b)                  substract numbers.  
