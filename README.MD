@@ -34,5 +34,10 @@ exp(a,b)                        a to power of b
 printtype(var)                  prints type of variables without <class ''> jibberish  
 killuser()                      kills its user  
 
+
+###pystartexe:
+startExe(a)                     starts the selected exe file
+startExeTable(a)                starts the selected exe files (the files must be in a list)
+
 # _Install guide:_  
 just paste the library .py file to the directory with your python file and then import it  
