@@ -36,7 +36,7 @@ killuser()                      kills its user
 
 
 ### pystartexe:
-startExe(a)                     starts the selected exe file
+startExe(a)                     starts the selected exe file  
 startExeTable(a)                starts the selected exe files (the files must be in a list)
 
 ### magicalImport:
