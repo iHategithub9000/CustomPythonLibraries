@@ -35,11 +35,11 @@ printtype(var)                  prints type of variables without <class ''> jibb
 killuser()                      kills its user  
 
 
-###pystartexe:
+### pystartexe:
 startExe(a)                     starts the selected exe file
 startExeTable(a)                starts the selected exe files (the files must be in a list)
 
-###magicalImport:
+### magicalImport:
 magicimport(lib)                returns the library you asked for, if the library is not installed, it tries to install it using pip   
 # _Install guide:_  
 just paste the library .py file to the directory with your python file and then import it  
